@@ -1,0 +1,8 @@
+C:\Users\boros.levente\source\repos\lotto\lotto\obj\Debug\lotto.csproj.AssemblyReference.cache
+C:\Users\boros.levente\source\repos\lotto\lotto\obj\Debug\lotto.csproj.SuggestedBindingRedirects.cache
+C:\Users\boros.levente\source\repos\lotto\lotto\obj\Debug\lotto.csproj.CoreCompileInputs.cache
+C:\Users\boros.levente\source\repos\lotto\lotto\bin\Debug\lotto.exe.config
+C:\Users\boros.levente\source\repos\lotto\lotto\bin\Debug\lotto.exe
+C:\Users\boros.levente\source\repos\lotto\lotto\bin\Debug\lotto.pdb
+C:\Users\boros.levente\source\repos\lotto\lotto\obj\Debug\lotto.exe
+C:\Users\boros.levente\source\repos\lotto\lotto\obj\Debug\lotto.pdb
